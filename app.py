@@ -15,3 +15,8 @@ st.subheader("Lone Wolf")
 st.subheader("Thirsty Beast")
 
 st.sidebar.title("Menu")
+st.sidebar.markdown("""
+-Home
+-About 
+-Contact
+""")
