@@ -22,3 +22,7 @@ st.sidebar.markdown("""
 - Login
 - More
 """)
+
+
+st.sidebar.selectbox('Select one',['personal','public'])
+st.sidebar.button('Select')
